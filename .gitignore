@@ -7,6 +7,7 @@
 # Ignore bundler config.
 /.bundle
 
+
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
@@ -27,6 +28,7 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+/config/stripe.rb
 
 /public/packs
 /public/packs-test
